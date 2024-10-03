@@ -1,7 +1,8 @@
 # This project is simple string obfuscate example
-### Im learning cpp now
+**Im learning cpp now**
 
 To build this project you need to have a c++ compiler on your system.
+1. [Im using g++ for example](https://gcc.gnu.org)
 
 ### How to build
 
