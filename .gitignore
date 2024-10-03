@@ -1,0 +1,5 @@
+# vscode files
+.vscode
+
+# output files
+*.exe
